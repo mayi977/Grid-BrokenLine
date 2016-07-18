@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "30DA0199BC7479ADBCE0C1DD40EF24AC19DAC6FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "30DA0199BC7479ADBCE0C1DD40EF24AC19DAC6FC" : 0,
+    "F63DFFD7448788960E0A85C67B3059D0FD144344" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4EF1A78E-D1A2-4935-BDC5-DE46C0DAB755",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "30DA0199BC7479ADBCE0C1DD40EF24AC19DAC6FC" : "Grid-BrokenLine\/",
+    "F63DFFD7448788960E0A85C67B3059D0FD144344" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BrokenLine",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BrokenLine.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mayi977\/Grid-BrokenLine.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "30DA0199BC7479ADBCE0C1DD40EF24AC19DAC6FC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mayi977\/MySwiftCalender.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F63DFFD7448788960E0A85C67B3059D0FD144344"
+    }
+  ]
+}
